@@ -5,7 +5,9 @@ This component allows you to use ST7735 display with ESP32. Thanks to [mvturnho]
 
 ## To use this component
 - Copy display, image and st7735 folders to the component folder of esphome.
+
 ![image](https://user-images.githubusercontent.com/4086591/77848839-43a14480-71d0-11ea-96c7-28a54f5b6681.png)
+
 ## sample configuration
 ```yaml
 image:
